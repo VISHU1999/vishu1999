@@ -9,7 +9,20 @@
 🤔 I’m looking for help with mastering advanced data structures and algorithms, as well as improving my understanding of system design principles. I'm always open to learning from others and seeking help when needed.
 
 💬 Ask me about full-stack web development! I have expertise in both front-end technologies such as Vue.js and back-end frameworks like Django. I'm also familiar with database technologies such as MongoDB and MySQL. Additionally, I have a strong knowledge of Git, squash, and Travis for version control and continuous integration.
+<details>
+  <summary>:zap: Most Used Languages</summary>
 
-📫 You can reach me through my LinkedIn profile or by emailing me directly at viveksharma4318@gmail.com or vivekpythondev@gmail.com. I'm also available on Discord with the username Viivek#0061, so feel free to ping me there anytime!
+<img align="left" alt="Nikhil,s GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHU1999&layout=donut" />
+
+</details>
+
+<h3 align="left">Feel free to reach me out on:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/vivek-sharma-726190148/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/vivek-sharma-726190148/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/vivek71017/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/vivek71017/" height="30" width="40" /></a>
+<a href="mailto:viveksharma4318@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="viveksharma4318@gmail.com" height="30" width="40" /></a>
+</p>
+
+📫 You can reach me through my alternatives vivekpythondev@gmail.com. I'm also available on Discord with the username Viivek#0061, so feel free to ping me there anytime!
 
 ⚡ Fun fact: When I'm not coding, you'll often find me watching videos and reading articles related to AI and data science. I'm quite active on Twitter as well, where I share my thoughts and insights on Python and Django.
