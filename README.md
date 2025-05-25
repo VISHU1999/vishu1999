@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on multiple projects where I primarily use Python and Vue.js, and occasionally React. As a Senior Solution Engineer at HashTrust Technology, I take care of client requirements and ensure a clean and organized Jira board 😸.
+🔭 I’m currently working on multiple projects where I primarily use Python and Vue.js, and occasionally React. As a full stack developer at Guardant Healthcare, I take care of client requirements and ensure a clean and organized Jira board 😸.
 
 🌱 I’m currently learning a variety of topics, including some DevOps concepts. While I have a basic understanding of Docker, I'm always eager to learn new technologies and stay up-to-date with the latest developments in the software industry. Currently, I'm diving into Tailwind CSS, React, and MongoDB. I even built my portfolio website using React! Feel free to check it out: VIVEK.
 
